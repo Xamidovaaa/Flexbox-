@@ -1,0 +1,44 @@
+h1{
+    color: skyblue;
+    text-decoration: underline;
+    text-align: center;
+}
+.block{
+    border: solid 1px cornflowerblue ;
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    text-align: center;
+}
+
+.pink{
+    border: solid 1px rgb(225, 124, 124);
+    background-color: rgb(217, 142, 142);
+    border-radius: 20px;
+}
+.green{
+    border: solid 1px rgb(178, 239, 157);
+    background-color: rgb(101, 218, 117);
+    border-radius: 20px;
+}
+.skypurple{
+    border: solid 1px rgb(223, 124, 197);
+    background-color: rgb(228, 145, 195);
+    border-radius: 20px;
+}
+.yellow{
+    border: solid 1px rgb(196, 212, 105);
+    background-color: rgb(230, 254, 71);
+    border-radius: 20px;
+}
+.purple{
+    border: solid 1px rgb(205, 105, 212);
+    background-color: rgb(250, 173, 248);
+    border-radius: 20px;
+}
+.skyblue{
+    border: solid 1px rgb(30, 160, 226);
+    background-color: rgb(175, 227, 250);
+    border-radius: 20px;
+}
